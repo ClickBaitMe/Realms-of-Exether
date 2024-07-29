@@ -39,7 +39,7 @@ pm_ectoplasm_plant = {
 		workforce_scaled = {
 			goods_input_engines_add = 20
 			goods_input_ectoplasm_add = 40
-			goods_output_electricity_add = 50
+			goods_output_electricity_add = 100
 		}
 
 		level_scaled = {
@@ -66,7 +66,7 @@ pm_godsblood_plant = {
 		workforce_scaled = {
 			goods_input_engines_add = 20
 			goods_input_oil_add = 40
-			goods_output_electricity_add = 150
+			goods_output_electricity_add = 200
 		}
 
 		level_scaled = {
@@ -93,7 +93,7 @@ pm_thaumacore_plant = {
 		workforce_scaled = {
 			goods_input_engines_add = 20
 			goods_input_thaumacores_add = 40
-			goods_output_electricity_add = 100
+			goods_output_electricity_add = 150
 		}
 
 		level_scaled = {
