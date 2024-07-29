@@ -696,3 +696,13 @@ airships = {
 	traded_quantity = 3
 	convoy_cost_multiplier = 0.25
 }
+godsblood = {
+	texture = "gfx/interface/icons/goods_icons/ectoplasm.dds"
+	cost = 50
+	category = industrial
+	
+	prestige_factor = 10
+	
+	traded_quantity = 4
+	convoy_cost_multiplier = 1.5
+}
